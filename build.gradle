@@ -12,3 +12,24 @@ repositories {
 dependencies {
     testImplementation 'junit:junit:4.11'
 }
+
+task buildFrontEnd(type: Exec) {
+    exec {
+        workingDir('./frontend')
+
+        // Run the shell command file on lINUX
+        commandLine './buildFrontEnd.sh'
+
+        // Store the output instead of printing to the console
+        standardOutput = new ByteArrayOutputStream()
+
+        // Extension method stopTomcat.output() can be used to obtain the output
+        ext.output = {
+            return standardOutput.toString()
+        }
+    }
+}
+
+build {
+    dependsOn('buildFrontEnd')
+}

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d5de236-b967-4664-9cd8-914acc6b6033" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/modules/frontend2/spring-boot-vuejs.frontend2.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.backup/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/backend/spring-boot-vuejs.backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-acl/5.2.1.RELEASE/spring-security-acl-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-aspects/5.2.1.RELEASE/spring-security-aspects-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-cas/5.2.1.RELEASE/spring-security-cas-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-crypto/5.2.1.RELEASE/spring-security-crypto-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-ldap/5.2.1.RELEASE/spring-security-ldap-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-messaging/5.2.1.RELEASE/spring-security-messaging-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-oauth2-core/5.2.1.RELEASE/spring-security-oauth2-core-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-oauth2-resource-server/5.2.1.RELEASE/spring-security-oauth2-resource-server-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-openid/5.2.1.RELEASE/spring-security-openid-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-remoting/5.2.1.RELEASE/spring-security-remoting-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-taglibs/5.2.1.RELEASE/spring-security-taglibs-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-test/5.2.1.RELEASE/spring-security-test-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/lib/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/github/backend/configuration/WebSecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/github/backend/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/buildFrontEnd.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/http-common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/e2e/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/e2e/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/e2e/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/e2e/support/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tests/unit/example.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea.backup/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/github/backend/BackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/github/backend/BackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_vexere-218206_asia-southeast1-a_uat-vexere" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1vWuydfpB1eJWm0rh24faaC5vbR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/dist/index.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2192639" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
+    <configuration name="spring-boot-vuejs [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-vuejs.backend.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="34255" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="2af9f76a-0ead-4ea6-909c-7f2a55cf3863" />
+                    <id>2af9f76a-0ead-4ea6-909c-7f2a55cf3863</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="2af9f76a-0ead-4ea6-909c-7f2a55cf3863" />
+                    <id>2af9f76a-0ead-4ea6-909c-7f2a55cf3863</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="5e309dec-c83d-4dc9-9cf6-38055866303e" />
+                    <id>5e309dec-c83d-4dc9-9cf6-38055866303e</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="5e309dec-c83d-4dc9-9cf6-38055866303e" />
+                    <id>5e309dec-c83d-4dc9-9cf6-38055866303e</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45089" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46425" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="66e482eb-f969-4060-b37c-994af8f30570" />
+                    <id>66e482eb-f969-4060-b37c-994af8f30570</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="66e482eb-f969-4060-b37c-994af8f30570" />
+                    <id>66e482eb-f969-4060-b37c-994af8f30570</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="04761639-ae8b-4e88-a813-f8b16c9ebe5c" />
+                    <id>04761639-ae8b-4e88-a813-f8b16c9ebe5c</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="04761639-ae8b-4e88-a813-f8b16c9ebe5c" />
+                    <id>04761639-ae8b-4e88-a813-f8b16c9ebe5c</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="43771" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.spring-boot-vuejs [build]" />
+      <item itemvalue="Spring Boot.BackendApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.spring-boot-vuejs [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d5de236-b967-4664-9cd8-914acc6b6033" name="Default Changelist" comment="" />
+      <created>1626690427635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626690427635</updated>
+      <workItem from="1626690432096" duration="2611000" />
+      <workItem from="1626712159186" duration="748000" />
+      <workItem from="1626715784078" duration="23000" />
+      <workItem from="1626750411764" duration="5332000" />
+      <workItem from="1626767494571" duration="1202000" />
+      <workItem from="1626796914955" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
