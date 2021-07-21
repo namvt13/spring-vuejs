@@ -15,7 +15,7 @@ public class MainController {
 	public static final String HELLO_TEXT = "Hello from Spring Boot Backend";
 	public static final String SECURED_TEXT = "Hello from the secured resource";
 
-	@CrossOrigin(origins = "http://localhost:8080")
+	//@CrossOrigin(origins = "localhost:8080")
 	// Set to enable CORS for request for resources from localhost:8080, the origin is different from the one in the cookie it attache to
 	@ResponseBody
 	@RequestMapping(path = "/hello")
